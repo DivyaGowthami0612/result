@@ -24,8 +24,8 @@ elif avg>=40:
 else:
  print('fail')
 OUTPUT:
-enter student no45
-enter student namesai
+enter student no72
+enter student namedivya
 enter student groupmscs
 enter maths marks95
 enter statistics marks96
